@@ -1,5 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
@@ -7,12 +6,33 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A blog with version control.
+
+This is a tool for writers who would like to post samples of work. The user will be able to include multiple
+drafts which will be grouped together, but will be viewed separately.
+
 ### Features
-Include Features here
+Create/edit posts
+
+Log in/log out
+
+Search by title/tag/content
+
 ### Technologies
-Include Technologies here
+Java
+
+Springboot
+
+Thymeleaf
+
+MYSQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Secure log in
+
+How to maintain text formatting when submitting a post
+
+How to submit images and pass them to the database
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/P72BOf3j/liftoff-project
