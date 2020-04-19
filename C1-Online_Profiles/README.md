@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Link to GitHub](https://github.com/Carl-Armstrong)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Link to LinkedIn](https://www.linkedin.com/in/carl--armstrong/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Link to Resume](CarlArmstrongResume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
